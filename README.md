@@ -11,7 +11,7 @@ CSS
 JAVASCRIPT
 ```
 ## SCREENSHOT OF APPLICATION
-![Image](assets/images/weatherscreenshot.jpg);
+![Image](assets/images/weather_screenshot.png);
 
 
 
