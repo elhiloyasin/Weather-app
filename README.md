@@ -17,5 +17,5 @@ JAVASCRIPT
 
 ## Deployed Application Link URL
 ```
-
+https://elhiloyasin.github.io/Weather-app/.
 ```
