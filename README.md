@@ -11,11 +11,10 @@ CSS
 JAVASCRIPT
 ```
 ## SCREENSHOT OF APPLICATION
-![Image](./assets/images/weather_screenshot.jpg);
+![Image](assets/images/weather_screenshot.jpg);
 
 
 
 ## Deployed Application Link URL
-```
 
-```
+https://elhiloyasin.github.io/Weather-app/
